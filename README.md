@@ -45,3 +45,5 @@ You can configure the script by modifying the following variables:
 The script uses the Loguru library for logging. The log file (`app.log`) will be created in the same directory as the script. It rotates every 1 week, and the log level is set to INFO. You can modify the log configuration in the script if needed.
 
 + the file will execute every `20` second(deafult)
+
+Last updated on: 2024-02-12
