@@ -47,3 +47,5 @@ The script uses the Loguru library for logging. The log file (`app.log`) will be
 + the file will execute every `20` second(deafult)
 
 Last updated on: 2024-02-12
+
+Last updated on: 2024-02-12
